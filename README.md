@@ -1,6 +1,8 @@
 # About_Me
 
-Hi friends, I'm Rainey 
+✌️ Hi friends! ✌️
+
+My name is Rainey
 
 Self-Taught Software Engineer - using the plethora of online resources to learn and practice. 
 
