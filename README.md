@@ -28,7 +28,9 @@ I am grateful to the tech community and the endless resources that are available
   <img alt="React" width="45px" src="https://user-images.githubusercontent.com/71032629/201262870-4c733469-7eb1-4f2d-8f59-8866b6fdac9b.svg" />
   <img alt="Python" width="45px" src="https://user-images.githubusercontent.com/71032629/200983262-af0ddc27-4eb3-4bbb-8905-c324c93f613f.svg" />
   <img alt="Git" width="45px" src="https://user-images.githubusercontent.com/71032629/201262924-62f8b39e-4a13-486d-8227-68045c1644e5.svg" />
-  <img alt="Git" width="45px" src="https://user-images.githubusercontent.com/71032629/201262963-2ae18780-8923-4749-90b7-3d8cb573d8f7.svg" />
+  <img alt="Express" width="45px" src="https://user-images.githubusercontent.com/71032629/201262963-2ae18780-8923-4749-90b7-3d8cb573d8f7.svg" />
+  <img alt="Firebase" width="45px" src="https://user-images.githubusercontent.com/71032629/216128421-1006b889-e5b4-4268-8a2e-d48a10ced880.svg" />
+  
 </div>
   
 
