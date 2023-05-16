@@ -8,7 +8,7 @@
 
 <details align="center">
 <summary><h3>📖 Learn About My Coding Journey</h3></summary>
-<p>At the end of 2020 I made the decision to quit my job and pursue a career in technology. I was interested in becoming a software engineer, so I started to learn how to program in Python through a combination of books and online courses. It was uncomfortable and difficult for several weeks, but I was determined to push forward. 
+<p>At the end of 2020 I made the decision to quit my job and pursue a career in technology. Through a combination of books and online courses, I began to learn how to program in Python . It was uncomfortable and difficult for several weeks, but I was determined to push forward. 
 
 After learning how to program at a basic level, I moved on to learning web development with HTML, CSS, and JavaScript. This is where programming became fun! I created projects from the bottom up and learned that I enjoy the process of scoping out a project and making incremental progress. Since then I have expanded to learning new libraries, frameworks, and tools.
 
